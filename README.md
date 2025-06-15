@@ -3,11 +3,11 @@
 - 🔭 Hoje sou estudante de informatica para internet
 - 🌱 Estou aprendendo javascript
 - 👯 Estou buscando colaborar com projetos da web
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 🌸 Minhas Estatísticas do GitHub
 
 
 <div style="display: inline_block"><br>
@@ -21,6 +21,12 @@
 </div>
   
   ##
+## 🌸 Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=silvananew&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=ffa6c9)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=silvananew&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffa6c9)
+
  
 
 
